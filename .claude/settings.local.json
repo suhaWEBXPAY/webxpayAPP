@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "d:\\webxpay app\\frontend"
+    ],
+    "allow": [
+      "Bash(npx ionic:*)"
+    ]
+  }
+}

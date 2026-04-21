@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "d:\\webxpay app\\frontend\\src\\environments",
+      "d:\\webxpay app\\frontend\\src\\app\\services",
+      "d:\\webxpay app\\frontend\\src\\app\\pages\\login"
+    ]
+  }
+}
